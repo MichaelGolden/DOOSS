@@ -1,0 +1,78 @@
+10
+
+dir
+0
+http://swebrouting.svn.beanstalkapp.com/default/StructureVis/src/structurevis/structures
+http://swebrouting.svn.beanstalkapp.com/default
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4b2089f4-8536-4b05-ac2b-dc60f8f4a527
+
+
+
+
+
+
+
+empty
+
+metadata
+dir
+
+
+
+add
+
+Structure.java
+file
+
+
+
+add
+
+NaspStructure.java
+file
+
+
+
+add
+
+io
+dir
+
+
+
+add
+
+StructureCollection.java
+file
+
+
+
+add
+
+StructureParser.java
+file
+
+
+
+add
+

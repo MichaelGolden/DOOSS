@@ -1,0 +1,28 @@
+10
+
+dir
+0
+http://swebrouting.svn.beanstalkapp.com/default/StructureVis/src/structurevis/ui/analyses
+http://swebrouting.svn.beanstalkapp.com/default
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4b2089f4-8536-4b05-ac2b-dc60f8f4a527
+

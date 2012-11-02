@@ -1,0 +1,106 @@
+10
+
+dir
+0
+http://swebrouting.svn.beanstalkapp.com/default/StructureVis/src/structurevis/data
+http://swebrouting.svn.beanstalkapp.com/default
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4b2089f4-8536-4b05-ac2b-dc60f8f4a527
+
+
+
+
+
+
+
+empty
+
+CollateNASPData.java
+file
+
+
+
+add
+
+SparseVector.java
+file
+
+
+
+add
+
+SparseMatrix.java
+file
+
+
+
+add
+
+IO.java
+file
+
+
+
+add
+
+FileSpecifier.java
+file
+
+
+
+add
+
+ParrisData.java
+file
+
+
+
+add
+
+Mapping.java
+file
+
+
+
+add
+
+SelectPairedSites.java
+file
+
+
+
+add
+
+CompareCoevolution.java
+file
+
+
+
+add
+
+CollateData.java
+file
+
+
+
+add
+
