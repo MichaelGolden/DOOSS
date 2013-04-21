@@ -1,0 +1,120 @@
+10
+
+dir
+0
+http://swebrouting.svn.beanstalkapp.com/default/StructureVis/src/structurevis/ui
+http://swebrouting.svn.beanstalkapp.com/default
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4b2089f4-8536-4b05-ac2b-dc60f8f4a527
+
+
+
+
+
+
+
+empty
+
+ColorGradient.java
+file
+
+
+
+add
+
+DataLegend.java
+file
+
+
+
+add
+
+DataTransform.java
+file
+
+
+
+add
+
+FileSpecifier.java
+file
+
+
+
+add
+
+FullGenomeDrawPanel.java
+file
+
+
+
+add
+
+Main.java
+file
+
+
+
+add
+
+MainApp.form
+file
+
+
+
+add
+
+MainApp.java
+file
+
+
+
+add
+
+StructureDrawPanel.java
+file
+
+
+
+add
+
+analyses
+dir
+
+
+
+add
+
+datacreation
+dir
+
+
+
+add
+
+layerpanel
+dir
+
+
+
+add
+
